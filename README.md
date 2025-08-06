@@ -15,7 +15,7 @@
 
 ## 🚀 安装与使用
 
-### 1. 克隆项目
+### 克隆项目
 
 ```bash
 git clone https://github.com/你的用户名/BibleCow.git
@@ -32,7 +32,6 @@ sudo mv biblecow /usr/local/bin/
 现在你可以直接在终端运行：
 
 biblecow
-
 
 ⸻
 
@@ -52,9 +51,8 @@ $ biblecow
                 ||     ||
 
 
-⸻
-
-📂 圣经语录文件
+```
+### 📂 圣经语录文件
 
 请在项目中准备一份圣经名言文件（例如 bible.txt），每条语句以句号（.）分隔：
 
@@ -66,17 +64,17 @@ I can do all things through Christ who strengthens me.
 你可以放在项目目录，或者修改代码中对应路径。
 
 
-🛠️ 技术栈
-	•	Go 语言
-	•	标准库：os, fmt, math/rand, time, bufio, strings
+## 🛠️ 技术栈
+	• Go 语言
+	• 标准库：os, fmt, math/rand, time, bufio, strings
 
 
-📜 License
+## 📜 License
 
 MIT License
 
 
-🙌 致谢
+## 🙌 致谢
 
 本项目灵感来自于经典 Unix 命令 cowsay，结合圣经金句作为输出内容。
 
