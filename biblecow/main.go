@@ -71,7 +71,7 @@ func formatSpeechBubble(text string) string {
 }
 func chatbox(content string)string{
 	if content == "bible"{
-		file,err := os.ReadFile("/Users/boyifan/Desktop/bible.txt")
+		file,err := os.ReadFile("xxxxx.txt")
 		if err != nil{
 			fmt.Println("打开文件失败",err)
 			return ""
