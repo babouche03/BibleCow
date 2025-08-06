@@ -21,11 +21,11 @@
 git clone https://github.com/你的用户名/BibleCow.git
 cd BibleCow
 
-2. 构建可执行文件
+- 构建可执行文件
 
 go build -o biblecow
 
-3. 全局使用（可选）
+- 全局使用（可选）
 
 sudo mv biblecow /usr/local/bin/
 
